@@ -5,7 +5,7 @@ Project responsible for presenting my skills with JavaScript and Jest (Unit Test
 # NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src=""/>
+	<img src="grade.png"/>
 </div>
 
 ## Connect with me:
